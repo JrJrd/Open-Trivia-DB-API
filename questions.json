@@ -1,0 +1,26 @@
+[
+    {
+      "question": "What is the only mammal that can fly?",
+      "choice1": "Bat",
+      "choice2": "Squirrel",
+      "choice3": "Lemur",
+      "choice4": "Human",
+      "answer": 1
+    },
+    {
+      "question": "What is the name for a group of dolphins?",
+      "choice1": "Flock",
+      "choice2": "Herd",
+      "choice3": "Friends",
+      "choice4": "Pod",
+      "answer": 4
+    },
+    {
+      "question": "What is the fastest bird in the world?",
+      "choice1": "Peregrine Falcon",
+      "choice2": "Bald Eagle",
+      "choice3": "Golden Eagle",
+      "choice4": "Harpy Eagle",
+      "answer": 1
+    }
+  ]
